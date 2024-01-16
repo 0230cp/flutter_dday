@@ -1,24 +1,33 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# flutter_dday
-=======
-# flutter_dday
+# Flutter Study - PageView
 
-A new Flutter project.
+## A Basic Couple D-Day app Project with Flutter
 
-## Getting Started
+![image](https://github.com/0230cp/flutter_dday/assets/97737375/71c9a87e-2f9e-4d46-be90-7c3018f8a8a3)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project is a starting point for a Flutter application. It's especially useful if this is your first Flutter project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> d2b758451c5f3a77423282fe743f6eefa41a53ec
-=======
-# flutter_dday
->>>>>>> 148dcf52e19b35217f6e218722d975713e7cf6a5
+To get started with this project, follow these steps:
+
+1. **Clone the Project**
+   
+  > git clone https://github.com/0230cp/flutter_pageview.git
+
+2. **Install Dependencies**
+
+ > flutter pub get
+
+### Used Versions
+
+Here are the versions of the dependencies used in this project:
+
+- `cupertino_icons: ^1.0.2`
+- `flutter_lints: ^2.0.0`
+- asset : asset/img/
+- font : asset/font/
+
+---
+
+I made it with the help of a code factory lecture
